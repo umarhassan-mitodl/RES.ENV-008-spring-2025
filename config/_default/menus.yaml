@@ -1,0 +1,17 @@
+leftnav:
+- identifier: d2358b4e-c311-4242-982d-e8a33c3f792b
+  name: Biology
+  pageRef: /pages/biology
+  weight: 10
+- identifier: 1a1dcac4-4858-4244-b99b-81c68412d8f6
+  name: Electrical Engineering / Computer Science
+  pageRef: /pages/electrical-engineering-computer-science
+  weight: 20
+- identifier: 554d5347-86fe-419d-9233-247403b4e4ec
+  name: Nuclear Science and Engineering
+  pageRef: /pages/nuclear-science-and-engineering
+  weight: 30
+- identifier: 5552aaad-16b8-48e1-9458-6f306c548312
+  name: Mathematics
+  pageRef: /pages/math
+  weight: 40
